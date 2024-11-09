@@ -1,0 +1,6 @@
+En este archivo.txt, se anotaran todos los avances del dia con sus especificaciones, junto
+a la persona quien lo anoto y la fecha
+
+Dia 1 - [Arturo Villa, 11 de Noviembre]: Se realizaron los "Epic" que definan los requisitos en 
+jira, también se realizo avances con respectos a las historias de usuarios para cada uno de los 
+requisitos.
