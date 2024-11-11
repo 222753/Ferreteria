@@ -1,10 +1,14 @@
 En este archivo.txt, se anotaran todos los avances del dia con sus especificaciones, junto
 a la persona quien lo anoto y la fecha
 
-Dia 1 - [Arturo Villa, 9 de Noviembre]: Se realizaron los "Epic" que definan los requisitos en 
+Dia 1 - [Arturo Villa, 8 de Noviembre]: Se realizaron los "Epic" que definan los requisitos en 
 jira, también se realizo avances con respectos a las historias de usuarios para cada uno de los 
 requisitos.
 
-Dia 2 - [Arturo Villa, 10 de Noviembre]: Se realizo una reunión con todos los participantes del 
+Dia 2 - [Arturo Villa, 9 de Noviembre]: Se realizo una reunión con todos los participantes del 
 equipo, para asignar tareas y resolver dudas y problemas, ya sean tecnicos, informativos, o 
 del procedimiento de los requisitos
+
+Dia 3 - [Arturo Villa, 10 de Noviembre]: Se realizo una reunion para asignar equitativamente las 
+Historias de usuarios, con el objetivo de que todos participen en cada requisito. También, se
+asignaron barios "sprint" en Backlog, para cada Requisio con sus historia de usuarios.
