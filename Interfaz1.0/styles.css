@@ -1,0 +1,75 @@
+#caja{
+    background-color: rgb(242, 223, 195);
+    border-radius: 15px;
+    padding-top: 30px;
+    height: 70%;
+    }
+    
+    input {
+      
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 10px;
+        border: 1px solid rgb(232, 227, 223);
+        border-radius: 14px;
+        background-color: rgb(248, 244, 242);
+     }
+     form{max-width: 500px; margin: 0 auto; border-radius: 54px;
+        }
+    
+    .minicontenedor{
+        
+        border-color: rgb(108, 66, 7);
+        border-radius: 15px;
+        background-color: rgb(240, 211, 171);
+    
+    }
+    .minicontenedor label{
+    font-family:  Helvetica;
+     color: rgb(96, 62, 7);
+     padding-top: 5px;
+    
+    }
+    legend{
+      
+        color: rgb(98, 30, 4);
+        font-family:Amasis MT Pro Black;
+        font-size:x-large;
+        padding: 10px;
+       
+    }
+  
+    
+
+ 
+    .boton{
+        background-color: rgb(191, 126, 5);
+        font-size: larger;
+        color: aliceblue;
+    
+    }
+    footer{
+        position: flex;
+        background-color: rgb(242, 223, 195);
+        height: 200px;
+        border-radius: 15px;
+        text-align: center;
+        margin-top: 10%;
+        font-size: larger;
+    }
+    a {
+       padding-left: 45%;
+        text-decoration: none;
+        color: #01060b;     
+        text-align: center; 
+        font-size: 25px;  
+
+    }
+
+    a:hover {
+        color: #66a4eb;    
+        font-size: 30px;   
+        text-align: center; 
+        padding-left: 40%;
+        
+    }
