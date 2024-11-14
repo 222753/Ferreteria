@@ -13,4 +13,8 @@ Dia 3 - [Arturo Villa, 10 de Noviembre]: Se realizo una reunion para asignar equ
 Historias de usuarios, con el objetivo de que todos participen en cada requisito. También, se
 asignaron barios "sprint" en Backlog, para cada Requisio con sus historia de usuarios.
 
-Dia 4 - [Erika Clara, 11 de Noviembre] Se implementó la validación de entrada al sistema.
+Dia 4 - [Erika Clara, 11 de Noviembre] Se realizo el diseño de la interfaz de inicio de sesión
+(fronted), de la historia de usuario de inicio de sesión.
+
+Dia 6 - [Erika Clara, 13 de Noviembre] Se establecieron la validaciones de entrada del lado del
+cliente y del lado del servidor.
