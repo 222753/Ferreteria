@@ -18,3 +18,5 @@ Dia 4 - [Erika Clara, 11 de Noviembre] Se realizo el diseño de la interfaz de i
 
 Dia 6 - [Erika Clara, 13 de Noviembre] Se establecieron la validaciones de entrada del lado del
 cliente y del lado del servidor.
+
+Dia 6 - [Erika Clara, 13 de Noviembre] Se desarrollo una logica de autentificador del servidor.
