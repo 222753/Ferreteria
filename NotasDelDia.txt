@@ -22,3 +22,5 @@ cliente y del lado del servidor.
 Dia 6 - [Erika Clara, 13 de Noviembre] Se desarrollo una logica de autentificador del servidor.
 
 Dia 6 - [Erika Clara, 13 de Noviembre] Se agrego la gestion de errores en la autenticacion.
+
+Dia 6 - [Eduardo Valdez, 13 de Noviembre] Se realizo la interdaz grafica para el registro del usuario.
