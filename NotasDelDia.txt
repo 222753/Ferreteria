@@ -15,3 +15,12 @@ asignaron barios "sprint" en Backlog, para cada Requisio con sus historia de usu
 
 Dia 4 - [Erika Clara, 11 de Noviembre] Se realizo el diseño de la interfaz de inicio de sesión
 (fronted), de la historia de usuario de inicio de sesión.
+
+Dia 6 - [Erika Clara, 13 de Noviembre] Se establecieron la validaciones de entrada del lado del
+cliente y del lado del servidor.
+
+Dia 6 - [Erika Clara, 13 de Noviembre] Se desarrollo una logica de autentificador del servidor.
+
+Dia 6 - [Erika Clara, 13 de Noviembre] Se agrego la gestion de errores en la autenticacion.
+
+Dia 6 - [Eduardo Valdez, 13 de Noviembre] Se realizo la interdaz grafica para el registro del usuario.
